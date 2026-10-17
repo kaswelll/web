@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(211, 173, 230);
+}
+h1 {
+    font-size: 32px;
+    color: #405b91;
+}
+h2 {
+    font-size: 24px;
+    color: #e396a8;
+}
+p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+a {
+    color: #50042e;
+    font-size: 18px;
+    text-decoration: none;     /*Убирает стандартное оформление текста ссылки подчёркивание*/
+}
+.content {
+    display: flex;
+    margin: 40px;
+
+}
+.content-left {
+    background: white;
+    margin: 10px;
+    padding: 25px;              /*Добавляет внутренний отступ*/
+    border-radius: 15px;     
+}
+
+.content-right {
+    background: #fff5f5;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 15px;
+}
+.photo {
+    width: 300px;
+    height: 200px;
+}
