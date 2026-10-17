@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторная работа 1</title>
+</head>
+
+<body>
+    <h1>Это моя первая HTML страница </h1>
+    <p>
+        <b>Город:</b> Самара
+        <b>Место обучения:</b> Сгэу
+        <b>Хобби:</b> Хожу в зал, слежу за питанием
+        <b>Интересный факт:</b> Аллергия на кошек
+    </p>
+    <h2>
+        <ul>Какие фильмы мне нравятся</ul>
+    </h2>
+    Побег из Шоушенка, Человек паук
+    <h2>Какая музыка мне нравится</h2>
+    <ol>1. Macan</ol>
+    <ol>2. Макс Корж</ol>
+    <ol>3. PHARAOH</ol>
+    <h2>Как связаться со мной</h2>
+    <a>https://vk.ru/kaswelll</a>
+    <img src="c:\Users\simon\OneDrive\Desktop\лаб 1\photo_5332759230580203149_y.jpg" class="photo" />
+</body>
+
+</html>
